@@ -1,0 +1,2 @@
+# fgo-scripts-lineonly-csv
+This js file was created to extract only the lines from the fgo script json file and convert it into a csv format that is easy to translate. However, this doesn't work alone, and I can only produce results by re-entering the json file that was cut in half from another project I forked. I tried to combine that and this, but I couldn't because I wasn't a professional programmer.

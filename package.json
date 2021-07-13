@@ -1,0 +1,16 @@
+{
+  "name": "fgo-scripts-lineonly-csv",
+  "version": "1.0.0",
+  "description": "¯\\_(ツ)_/¯",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sleeping-player",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.6",
+    "jsonexport": "^3.2.0",
+    "yargs": "^17.0.1"
+  }
+}
